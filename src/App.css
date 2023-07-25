@@ -1,0 +1,53 @@
+h1{
+  font-family: 'Lilita One', cursive;
+}
+.App {
+  background-color: white;
+  min-height: 80vh;
+  width: 400px;
+  margin: 20px auto;
+  border-radius: 30px;
+}
+body{
+  background-color: #FFEA20;
+}
+.crossed{
+  text-decoration: line-through 2px red;
+  background-color: #F8F988;
+}
+ul, li {
+  font-family: 'Caveat', cursive;
+  list-style-type: none;
+  padding: 10px;
+  margin:0;
+}
+.container{
+  display: flex;
+  justify-content: center;
+}
+.add {
+  background: #8CBA51;
+  margin-top: 5px;
+}
+
+.delete {
+  background: #4F200D;
+  margin-bottom: 5px;
+}
+
+.btn {
+padding: 5px;
+border: none;
+border-radius: 10px;
+width: 70%;
+color: white;
+font-size: 18px;
+font-family: 'Lilita One', cursive;
+}
+input{
+  flex:1;
+  padding:8px;
+  margin: 10px;
+  font-family: 'Caveat', cursive;
+  font-size: 16px;
+}
