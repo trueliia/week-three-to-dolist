@@ -1,3 +1,14 @@
+# To do list App
+A To do list App made in React. It is able to add, mark as done, and delete events.
+
+## Description
+Welcome to my To Do List App made in React! It alows users to easily add the tasks and cross them out once done.
+
+### Credits
+The App was created as a homework for a React course at @canshecode online coding school.
+
+### 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
